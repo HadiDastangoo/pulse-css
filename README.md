@@ -1,7 +1,7 @@
 # A Pulseing Circle CSS
 
 ## Usage
-	1. Add this CSS codes to your style:
+1. Add this CSS codes to your style:
 ```CSS
 .pulse {
     content: '';
@@ -25,8 +25,10 @@
 }
 ```
 
-	2. Add `pulse` class to a `div` html tag.
+2. Add `pulse` class to a `div` html tag.
 
 ```HTML
 <div class="pulse"></div>
 ```
+
+&copy; Copyright: https://warehouse.easyphp.org/
